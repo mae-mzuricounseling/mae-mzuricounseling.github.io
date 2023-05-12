@@ -189,11 +189,6 @@ nav .start-contact, a:nth-child(5):hover~.animation {
 	  grid-template-columns: 1fr;
 	  grid-template-rows: repeat(10, 1fr);
 	}
-	
-	.nav a {
-		float: none;
-		display: block;
-	}
   }
   
   .image-grid {
